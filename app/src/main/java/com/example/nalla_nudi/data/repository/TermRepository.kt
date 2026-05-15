@@ -1,3 +1,4 @@
+// TermRepository - Connects ViewModel to Room Database
 package com.example.nalla_nudi.data.repository
 
 import com.example.nalla_nudi.data.local.TermDao
