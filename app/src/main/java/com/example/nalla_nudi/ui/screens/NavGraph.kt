@@ -1,3 +1,4 @@
+// NavGraph - Multi screen navigation for all 7 screens
 package com.example.nalla_nudi.ui.screens
 
 import androidx.compose.runtime.*
