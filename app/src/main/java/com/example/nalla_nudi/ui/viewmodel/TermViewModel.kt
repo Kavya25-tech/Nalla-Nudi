@@ -1,3 +1,4 @@
+// TermViewModel - Manages search, save, flashcard and word of day
 package com.example.nalla_nudi.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
