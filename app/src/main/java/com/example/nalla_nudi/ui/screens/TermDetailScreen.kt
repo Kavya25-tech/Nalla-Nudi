@@ -1,3 +1,4 @@
+// Term Detail Screen - Shows full bilingual term details
 package com.example.nalla_nudi.ui.screens
 
 import android.speech.tts.TextToSpeech
