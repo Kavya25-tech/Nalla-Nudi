@@ -1,3 +1,5 @@
+// Pre-loaded with 100+ bilingual technical terms
+// Subjects: Science, Mathematics, Commerce
 package com.example.nalla_nudi.data.local
 
 import android.content.Context
