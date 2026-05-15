@@ -1,3 +1,4 @@
+// Search Screen - Live offline search using Room FTS4
 package com.example.nalla_nudi.ui.screens
 
 import android.speech.tts.TextToSpeech
