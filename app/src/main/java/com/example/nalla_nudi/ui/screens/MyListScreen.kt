@@ -1,3 +1,4 @@
+// My List Screen - Personal bookmarked terms for revision
 package com.example.nalla_nudi.ui.screens
 
 import androidx.compose.foundation.layout.*
