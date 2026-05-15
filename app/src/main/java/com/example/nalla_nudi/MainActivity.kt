@@ -1,3 +1,6 @@
+// Nalla-Nudi - Bridge Dictionary for Technical Terms
+// Developed by Kavya - 4SN22CS045
+// Srinivas Institute of Technology, Mangaluru
 package com.example.nalla_nudi
 
 import android.os.Bundle
