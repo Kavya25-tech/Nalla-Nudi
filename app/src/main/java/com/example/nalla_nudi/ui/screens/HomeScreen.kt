@@ -1,3 +1,4 @@
+// Home Screen - Shows Word of Day, Subject Cards, Search Bar
 package com.example.nalla_nudi.ui.screens
 
 import androidx.compose.foundation.background
