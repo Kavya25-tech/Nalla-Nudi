@@ -1,3 +1,4 @@
+// Flashcard Screen - Card flip revision with progress tracking
 package com.example.nalla_nudi.ui.screens
 
 import androidx.compose.animation.core.animateFloatAsState
